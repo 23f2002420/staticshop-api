@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "23f2002420@ds.study.iitm.ac.in",
+    "version": "d1880d08"
+  },
+  "products": [
+    {"id": "prod-d1880d08-001","name": "Elite Item 1","category": "electronics","price": 130.74,"stock": 34,"rating": 3.2},
+    {"id": "prod-d1880d08-002","name": "Elite Item 2","category": "sports","price": 328.65,"stock": 115,"rating": 3.9},
+    {"id": "prod-d1880d08-003","name": "Basic Item 3","category": "sports","price": 120.12,"stock": 147,"rating": 2.7},
+    {"id": "prod-d1880d08-004","name": "Premium Item 4","category": "books","price": 169.26,"stock": 29,"rating": 4},
+    {"id": "prod-d1880d08-005","name": "Premium Item 5","category": "home","price": 473.79,"stock": 139,"rating": 2.3},
+    {"id": "prod-d1880d08-006","name": "Premium Item 6","category": "books","price": 283.83,"stock": 70,"rating": 3},
+    {"id": "prod-d1880d08-007","name": "Basic Item 7","category": "books","price": 462.72,"stock": 18,"rating": 1.2},
+    {"id": "prod-d1880d08-008","name": "Elite Item 8","category": "books","price": 19.2,"stock": 17,"rating": 2.5},
+    {"id": "prod-d1880d08-009","name": "Elite Item 9","category": "books","price": 319.81,"stock": 58,"rating": 2.6},
+    {"id": "prod-d1880d08-010","name": "Basic Item 10","category": "home","price": 499.61,"stock": 4,"rating": 4.8},
+    {"id": "prod-d1880d08-011","name": "Basic Item 11","category": "clothing","price": 379.66,"stock": 8,"rating": 1.8},
+    {"id": "prod-d1880d08-012","name": "Standard Item 12","category": "clothing","price": 209.99,"stock": 59,"rating": 1.7},
+    {"id": "prod-d1880d08-013","name": "Basic Item 13","category": "sports","price": 369.96,"stock": 102,"rating": 4.4},
+    {"id": "prod-d1880d08-014","name": "Premium Item 14","category": "sports","price": 249.84,"stock": 35,"rating": 1.7},
+    {"id": "prod-d1880d08-015","name": "Basic Item 15","category": "sports","price": 55.74,"stock": 186,"rating": 2.8},
+    {"id": "prod-d1880d08-016","name": "Premium Item 16","category": "books","price": 79.1,"stock": 184,"rating": 3.8},
+    {"id": "prod-d1880d08-017","name": "Standard Item 17","category": "clothing","price": 466.53,"stock": 5,"rating": 4.5},
+    {"id": "prod-d1880d08-018","name": "Basic Item 18","category": "home","price": 277.04,"stock": 56,"rating": 2},
+    {"id": "prod-d1880d08-019","name": "Premium Item 19","category": "books","price": 416.6,"stock": 196,"rating": 4}
+  ],
+  "aggregations": {
+    "home": {
+      "count": 3,
+      "inventoryValue": 83369.49
+    }
+  }
+}
