@@ -25,9 +25,25 @@
     {"id": "prod-d1880d08-019","name": "Premium Item 19","category": "books","price": 416.6,"stock": 196,"rating": 4}
   ],
   "aggregations": {
+    "electronics": {
+      "count": 1,
+      "inventoryValue": 4445.16
+    },
+    "sports": {
+      "count": 5,
+      "inventoryValue": 82311.49
+    },
+    "books": {
+      "count": 7,
+      "inventoryValue": 181248.07
+    },
     "home": {
       "count": 3,
       "inventoryValue": 83369.49
+    },
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 37719.42
     }
   }
 }
